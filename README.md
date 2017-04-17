@@ -5,7 +5,7 @@
 + Stops Autoplay on mouse over and resumes on mouse out.<br />
 + Previous and Next buttons for navigation.
 
-<a href="http://jennielenier.com/slideshow/">CLICK TO SEE DEMO</a>
+<a href="http://jennielenier.com/slideshow/" target="_blank">CLICK TO SEE DEMO</a>
 
 
 ```
