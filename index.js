@@ -60,10 +60,10 @@ function slideNext(item) {
 }
 
 
-sliderWrapper.addEventListener('mouseover', stopAutoPlay)
-prevBtn.addEventListener('mouseover', stopAutoPlay)
-nextBtn.addEventListener('mouseover', stopAutoPlay)
-sliderWrapper.addEventListener('mouseout', startAutoPlay)
+sliderWrapper.addEventListener('mouseenter', stopAutoPlay)
+prevBtn.addEventListener('mouseenter', stopAutoPlay)
+nextBtn.addEventListener('mouseenter', stopAutoPlay)
+sliderWrapper.addEventListener('mouseleave', startAutoPlay)
 
 
 let autoPlay = setInterval(ClickNext, 2000)
