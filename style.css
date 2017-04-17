@@ -47,6 +47,10 @@ body {
     cursor: pointer;
     background-color: rgba(0,0,0,0.3);
 }
+.slider-container > button:hover {
+    color: #fff;
+    background-color: rgba(0,0,0,0.6);
+}
 #btn-next {
     right: 10px;
 }
