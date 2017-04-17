@@ -1,0 +1,16 @@
+{
+  "name": "quad_slider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "babel" : "babel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.3.3"
+  }
+}
