@@ -1,3 +1,6 @@
+html, body {
+    overflow-x: hidden;
+}
 body {
     background-color: black;
 }
@@ -22,7 +25,7 @@ body {
     width: 980px;
     display: inline-block;
     float: left;
-    transition: margin-left 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
 }
 
 .slider-container > ul li img {
@@ -44,10 +47,6 @@ body {
     cursor: pointer;
     background-color: rgba(0,0,0,0.3);
 }
-.slider-container > button:hover {
-    background-color: rgba(0,0,0,0.6);
-    color: #fff;
-}
 #btn-next {
     right: 10px;
 }
@@ -55,3 +54,4 @@ body {
     left: 10px;
 }
 button:focus { outline:0 !important; }
+

@@ -1,8 +1,8 @@
 
 ###Getting Started###
 
-Image Slider with Autoplay.
-Stops Autoplay on mouse over and resumes on mouse out.
+Image Slider with Autoplay.__
+Stops Autoplay on mouse over and resumes on mouse out.__
 Previous and Next buttons for navigation.
 
 
